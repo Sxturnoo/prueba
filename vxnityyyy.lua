@@ -8,7 +8,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Load WindUI at the start to ensure it's available globally
 local success, WindUI = pcall(function()
-    return loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/main/dist/main.lua"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/Sxturnoo/prueba/refs/heads/main/1000540410"))()
 end)
 
 if not success or not WindUI then
