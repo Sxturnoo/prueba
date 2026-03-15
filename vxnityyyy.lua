@@ -8,7 +8,7 @@ local LocalPlayer = Players.LocalPlayer
 
 -- Load WindUI at the start to ensure it's available globally
 local success, WindUI = pcall(function()
-    return loadstring(game:HttpGet("https://github.com/Footagesus/WindUI/releases/latest/download/main.lua"))()
+    return loadstring(game:HttpGet("https://raw.githubusercontent.com/Footagesus/WindUI/refs/heads/main/main_example.lua"))()
 end)
 
 if not success or not WindUI then
