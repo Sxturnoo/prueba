@@ -2720,9 +2720,9 @@ CreateWatermark();
 
 -- ================= HOME TAB =================
 HomeTab:Label('Left', '--- CONTRIBUTORS ---')
-HomeTab:Label('Left', 'kyro')
-HomeTab:Label('Left', 'gonza')
-HomeTab:Label('Left', 'kenyah')
+HomeTab:Label('Left', 'by')
+HomeTab:Label('Left', 'vxnity team')
+HomeTab:Label('Left', 'of kenyah')
 
 HomeTab:Label('Right', '--- LATEST UPDATES ---')
 HomeTab:Label('Right', '- Aimbot Modes: Shoot, Pass, Save')
